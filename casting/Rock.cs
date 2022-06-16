@@ -1,6 +1,9 @@
 /*
 
 */
+using System; 
+
+namespace Gems_Rocks_Chasers.casting;
 
 public class Rock : Actor 
 {

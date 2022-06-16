@@ -58,6 +58,31 @@ public class Actor
         return _position.get_x();
     }
 
+    public int get_width()
+    {
+        return _width;
+    }
+
+    public int get_height()
+    {
+        return _height;
+    }
+
+    public bool has_image()
+    {
+        return _image == "";
+    }
+
+    public void set_width(int width)
+    {
+        _width = width
+    }
+
+    public void set_height(int height)
+    {
+        _height = height
+    }
+
     public Point get_y()
     {
         return _position.get_y();

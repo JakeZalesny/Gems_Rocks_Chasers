@@ -11,17 +11,22 @@ class Cast
 {
     public Cast()
     {
-        this.actors = {};
+        Dictionary <string, List<Actor>> actors = {};
     }
 
-    private static void add_actor(str group, str actor) 
+    public void add_actor(str group, str actor) 
     {
-        groups = this.actors.keys;
-        foreach (str group in groups)
+        groups = actors.keys;
+        foreach (string group in groups)
         {
             if 
         }
 
+    }
+
+    public Dictionary<string, List<Actor>> get_all_actors()
+    {
+        return actors;
     }
 
     
