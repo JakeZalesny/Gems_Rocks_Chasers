@@ -1,0 +1,5 @@
+C:\Users\jrzal\Desktop\CSE-310\Gems_Rocks_Chasers\obj\Debug\net5.0\Gems_Rocks_Chasers.csproj.AssemblyReference.cache
+C:\Users\jrzal\Desktop\CSE-310\Gems_Rocks_Chasers\obj\Debug\net5.0\Gems_Rocks_Chasers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrzal\Desktop\CSE-310\Gems_Rocks_Chasers\obj\Debug\net5.0\Gems_Rocks_Chasers.AssemblyInfoInputs.cache
+C:\Users\jrzal\Desktop\CSE-310\Gems_Rocks_Chasers\obj\Debug\net5.0\Gems_Rocks_Chasers.AssemblyInfo.cs
+C:\Users\jrzal\Desktop\CSE-310\Gems_Rocks_Chasers\obj\Debug\net5.0\Gems_Rocks_Chasers.csproj.CoreCompileInputs.cache

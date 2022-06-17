@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cghgo4us8MAjVU5GZXKE7OZdwSmzV3B7+yCTqlugv5jUen9ncChJ42gj3EXeKVTgWKbc5C67PRaliuFZNJGPvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrzal\\Desktop\\CSE-310\\Gems_Rocks_Chasers\\Gems_Rocks_Chasers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrzal\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jrzal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

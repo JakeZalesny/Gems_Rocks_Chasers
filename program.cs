@@ -3,9 +3,21 @@
 
 */
 
+using System;
+using Gems_Rocks_Chasers.scripting;
+using Gems_Rocks_Chasers.casting;
+using Gems_Rocks_Chasers.scripting; 
+using System.Collections.Generic;
 
-class Program 
+namespace Gems_Rocks_Chasers
 {
-    static void Main(string[] args)
-       
+    class Program 
+    {
+        static void Main(string[] args)
+        {
+            Director director = new Director();
+            director.initialize_objects(); 
+            director.direct();
+        }   
+    }
 }
