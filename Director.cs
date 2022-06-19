@@ -11,9 +11,9 @@ namespace Gems_Rocks_Chasers
 {
     public class Director
     {       
-            public Cast cast = new Cast();
-            public Script script = new Script();
-            public static bool _keepPlaying = true;
+            private Cast cast = new Cast();
+            private Script script = new Script();
+            private static bool _keepPlaying = true;
 
         public Director()
         {
