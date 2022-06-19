@@ -37,14 +37,14 @@ namespace Gems_Rocks_Chasers
             
             for (int i = 0; i <= Constants.GEM_AMMOUNT; i++)
             {
-                Gem gem = new Gem(); 
+                Gem.Actor gem = new Gem.Actor(); 
                 _cast.add_actor("gems", gem);
                 
             }
 
             for (int i = 0; i <= Constants.ROCK_AMMOUNT; i++)
             {
-                Rock rock = new Rock();
+                Rock.Actor rock = new Rock.Actor();
                 _cast.add_actor("rocks", rock);
             }
 

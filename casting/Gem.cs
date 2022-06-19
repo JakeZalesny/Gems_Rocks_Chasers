@@ -8,14 +8,14 @@ namespace Gems_Rocks_Chasers.casting
     public class Gem : Actor
     {
         public Gem()
-        {   
+        {  
             public string gem = "*";
-            public string width = 16;
-            public string height = 29;
+            public int width = 16;
+            public int height = 29;
 
-            set_image(gem);
-            set_width(width);
-            set_image(height);
+            set_image(string gem);
+            set_width(int width);
+            set_image(int height);
         }
     }
 }
